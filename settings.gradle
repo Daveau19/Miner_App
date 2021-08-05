@@ -1,0 +1,2 @@
+rootProject.name = "Miner_App"
+include ':app'
